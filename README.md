@@ -3,12 +3,12 @@
 The purpose of this election audit was to provide a detail overview of a congressional election with the following information: total number of votes, break down of votes by county, break down of votes by canididate, and election results
 
 
-##2.Election-Audit Results: 
+##Election-Audit Results: 
 -How many votes were cast in this congressional election?
 369,711
 
 A for loop was used to count a new vote each time it advanced to the new row. 1 row of data = 1 vote
-# For each row in the CSV file.
+    'For each row in the CSV file.
     for row in reader:
         # Add to the total vote count
         total_votes = total_votes + 1
@@ -24,4 +24,4 @@ Provide a breakdown of the number of votes and the percentage of the total votes
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 ![winner bd](https://user-images.githubusercontent.com/107078763/176034161-cc8db69f-d77f-486e-8bd5-b3bdc3913559.png)
 
-##3.Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+##Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
