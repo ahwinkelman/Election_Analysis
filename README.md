@@ -18,7 +18,9 @@ Provide a breakdown of the number of votes and the percentage of total votes for
 
 Which county had the largest number of votes?
 Refer to the image above, Denver had the largest number of votes.
+
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
 ![candidate bd](https://user-images.githubusercontent.com/107078763/176034024-b7d83714-3149-4a53-aa37-483f7102c840.png)
 
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
