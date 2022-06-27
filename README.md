@@ -1,5 +1,5 @@
 # Election_Analysis
-##1.Overview of Election Audit: 
+## 1.Overview of Election Audit: 
 The purpose of this election audit was to provide a detail overview of a congressional election with the following information: total number of votes, break down of votes by county, break down of votes by canididate, and election results
 
 
@@ -22,4 +22,6 @@ Provide a breakdown of the number of votes and the percentage of the total votes
 ![candidate bd](https://user-images.githubusercontent.com/107078763/176034024-b7d83714-3149-4a53-aa37-483f7102c840.png)
 
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+![winner bd](https://user-images.githubusercontent.com/107078763/176034161-cc8db69f-d77f-486e-8bd5-b3bdc3913559.png)
+
 ##3.Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
